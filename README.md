@@ -23,3 +23,8 @@ UnitPrice - Total monetary amount of the invoice (GBP)
 CustomerID - Unique customer ID
 
 Country - Country name
+
+
+Due to dataset size, please try codes here in my Kaggle notebook:
+
+https://www.kaggle.com/blirinddanjolli/rfm-for-your-company-online-retail-ii-2010-2011
